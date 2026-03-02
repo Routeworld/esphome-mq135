@@ -43,7 +43,7 @@ wifi:
   fast_connect: false
   ap:
     ssid: "🏠 ISL Climate — fallback hotspot"
-    password: "**************"
+    password: "12345678"
     ap_timeout: 3min
 
 web_server:
